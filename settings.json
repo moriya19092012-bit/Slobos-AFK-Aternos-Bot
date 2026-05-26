@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LILI21212-TmUB.aternos.me",
+    "ip": "LILI21212-TmUB.aternos.me:51956",
     "port": 51956,
     "version": "",
     "try-creative": false
